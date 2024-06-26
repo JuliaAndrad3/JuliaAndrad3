@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+BEM VINDOS AO MEU PERFIL
+
+Meu nome é Julia
+
+
+Estou estudando no Alura
+Estou me desenvolvendo no JavaScript
+Ultilizo esse espaço para organização e compartilhamento do meu projeto desenvolvido
